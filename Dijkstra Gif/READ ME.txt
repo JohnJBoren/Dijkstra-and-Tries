@@ -1,0 +1,12 @@
+I have included this version which I call DijkstraGif.py
+
+It creates a GIF of the path traveled. 
+
+It uses moviepy which can be downloaded here:
+
+https://zulko.github.io/moviepy/install.html
+
+I experimented with ways to use a try: except: with pip to ensure the import is downloaded.
+
+That just seemed wrong.  If you want to play around with it, the list named piclist can be altered to make a gif of any path, of any length.
+
